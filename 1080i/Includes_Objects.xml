@@ -755,9 +755,9 @@
                 <height>50</height>
                 <align>center</align>
                 <width>auto</width>
-                <font>font_head_bold</font>
-                <textcolor>$VAR[ColorHighlight]</textcolor>
-                <label>$NUMBER[3]</label>
+                <font>font_title_huge_light</font>
+                <textcolor>FFE1AD01</textcolor>
+                <label>.cine</label>
             </control>
         </control>
         <control type="group">
