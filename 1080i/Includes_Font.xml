@@ -141,8 +141,9 @@
                 <size>$PARAM[size_huge_x2]</size>
             </font>
             <font>
-                <name>font_title_huge_regular</name>
-                <filename>$PARAM[font_regular]</filename>
+                <name>font_title_huge_light</name>
+                <filename>$PARAM[font_light]</filename>
+                <style>$PARAM[style_light]</style>
                 <size>$PARAM[size_huge_x2]</size>
             </font>
             <font>

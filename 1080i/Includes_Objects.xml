@@ -754,7 +754,7 @@
                 <aligny>center</aligny>
                 <align>center</align>
                 <width>auto</width>
-                <font>font_title_huge_regular</font>
+                <font>font_title_huge_light</font>
                 <textcolor>FFE1AD01</textcolor>
                 <label>.cine</label>
             </control>
